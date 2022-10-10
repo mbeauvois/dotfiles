@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = beauvois.marine.pro@hotmail.com
+	name = beauvoismarine
